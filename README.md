@@ -1,2 +1,2 @@
 # Take_Break-Extension
-<img src="image.jpg" />
+![Image of Extension](https://raw.githubusercontent.com/nileshhazra/Take_Break-Extension/master/image.JPG)
