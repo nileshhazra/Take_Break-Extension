@@ -1,5 +1,3 @@
-
-
 setInterval(clock,10);
 function clock () { 
     var day = ['Sunday','Monday','Tuesday','Wednesday', 'Thursday','Friday', 'Saturday'];
